@@ -1,9 +1,17 @@
 ### Hi there 👋
+💻I'm QA Engineer in Qrvey SaS🟠⚪️.
+🙋🏻‍♀️Computer Engineer specialist in Information Security with Knowledge in programming 
+languages, databases and operating systems, experienced in code analysis to solve 
+functional concerns or software errors, and 10+ years of experience in implementation, 
+administration, supervision, support, and training to end users of software and 
+information systems; capacity to manage information in real time which allows 
+generation of different reports; ability to receive and analyze requirements requested by end users,
+in order to facilitate software development.
+I love running 🏃🏻‍♀️
+
 
 <!--
-**annyj211/annyj211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**annyj211/annyj211** is a ✨QA✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

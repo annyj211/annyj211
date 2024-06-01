@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻I'm QA Engineer in Qrvey SaS🟠⚪️.
+💻I'm QA Engineer at First In Service Travel.
 🙋🏻‍♀️Computer Engineer specialist in Information Security with Knowledge in programming 
 languages, databases and operating systems, experienced in code analysis to solve 
 functional concerns or software errors, and 10+ years of experience in implementation, 
